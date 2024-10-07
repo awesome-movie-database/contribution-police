@@ -19,7 +19,7 @@ dependencies = [
 dev = [
     "mypy==1.11.*",
     "ruff==0.6.*",
-    "pre-commit==3.8.*",
+    "pre-commit==4.0.*",
 ]
 event_consumer = [
     "faststream==0.5.*",
